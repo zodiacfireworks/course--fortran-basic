@@ -21,7 +21,7 @@ program TPK
        if ( y < 400.0 ) then
           print *, i, y
        else
-          print *, i, " Too large"
+          print *, i, " To    o large"
        end if
     end do
-end program TPK
+end program
